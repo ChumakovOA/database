@@ -1,11 +1,11 @@
 [//]: # (Начало блока с заданием)
 **Задание 1: Название задачи**
 
-![Скриншот задания](<img width="820" height="951" alt="image" src="https://github.com/user-attachments/assets/500ff90a-24b1-47da-bfe4-dc7c106c6a1f" />
+![Скриншот задания](<img width="1031" height="161" alt="image" src="https://github.com/user-attachments/assets/c823c654-b803-4c86-8db4-447971bd7a8e" /><img width="1018" height="571" alt="image" src="https://github.com/user-attachments/assets/a9ffefb5-9778-4658-a448-7aba1e6796b6" />
 )
 
 <details>
-<summary><strong></strong> (нажмите, чтобы раскрыть)</summary>
+<summary><strong></strong></summary>
 
 ```python
 class Employee:
