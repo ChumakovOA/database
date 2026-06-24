@@ -1,6 +1,6 @@
 [//]: # (Начало блока с заданием)
-**Задание 1: Название задачи**
-(<img width="1018" height="571" alt="image" src="https://github.com/user-attachments/assets/012f8eac-fb2e-4ecc-bdf3-46c70202256a" />)
+**Задание 1: Питон ебучий**
+<img width="1018" height="571" alt="image" src="https://github.com/user-attachments/assets/012f8eac-fb2e-4ecc-bdf3-46c70202256a" />
 
 <details>
 <summary><strong></strong></summary>
